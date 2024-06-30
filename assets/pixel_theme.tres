@@ -1,0 +1,7 @@
+[gd_resource type="Theme" load_steps=2 format=3 uid="uid://djh38dclkwr2g"]
+
+[ext_resource type="FontFile" uid="uid://cwd1tkm36irny" path="res://assets/pixel_font.ttf" id="1_fw2nl"]
+
+[resource]
+default_font = ExtResource("1_fw2nl")
+default_font_size = 50
